@@ -1,3 +1,5 @@
+// This doesnt work, I pulled it from an old system
+
 const { SlashCommandBuilder, ChannelType, ButtonBuilder, ActionRowBuilder, ButtonStyle, EmbedBuilder, PermissionFlagsBits } = require('discord.js');
 const path = require('path');
 const Database = require('better-sqlite3');
