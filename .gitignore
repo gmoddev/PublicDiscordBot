@@ -1,0 +1,9 @@
+.env
+node_modules
+data/
+data
+package-lock.json
+*.db
+data/message_counts.db
+data/log_channels.db
+
